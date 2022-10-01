@@ -4,7 +4,9 @@
 
 ### Identify performance of theater plays based on launch date and funding goals
 
-#### By use of basic excel tools, it could be seen in a graphic content the trend of the sorted data. Though analysis could be made on a greater scale, the focus was made on a particular matter of success relative to founding and monetary intention. Data will be analyzed to represent the outcomes of theatrical productions plays.
+By use of basic excel tools, it could be seen in a graphic content the trend of the sorted data. Though analysis could be made on a greater scale, the focus was made on a particular matter of success relative to founding and monetary intention. Data will be analyzed to represent the outcomes of theatrical productions plays.
+
+---
 
 ## Analysis and Challenges
 
@@ -18,15 +20,18 @@ By creating a pivot table, taking as filter reference parent category 'Theater' 
 Besides the sorting of the data to be readable and useful, another challenge using data could be selecting the appropiate information to take into account to create relationships and showcase results. In this case, filtering through plays on a pivot chart over the years, led us to collect useful information about the outcomes.  
 
 ### Analysis of Outcomes Based on Goals
-This time, a tabular table was created based on our Kickstarter data, initial monetary values and subcategory 'plays' served as reference to make the sorting, by using "=COUNTIFS()" excel tool. Likewise, in the outcomes column to filter and extract the information needed, the function "=SUM()" to group the results and sort percentages with a basic mathematical calculation (Outcome/SUM * 100) inside  "=IFERROR()" function to prevent errors from data with zero values. A visual representation of percentage of success, failure and canceled plays is displayed in the following line chart. 
+This time, a tabular table was created based on our Kickstarter data, initial monetary values and subcategory 'plays' served as reference to make the sorting, by using "=COUNTIFS()" excel tool. Likewise, operations in the outcomes column to filter and extract the information needed, the function "=SUM()" to group the results and sort percentages with a basic mathematical calculation (Outcome/SUM * 100) inside  "=IFERROR()" function, to prevent errors from data with zero values. A visual representation of percentage of success, failure and canceled plays is displayed in the following line chart. 
+
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
-####
+Possible challenges could be present if there was a more specific question which requires calculations and use of complex formulas to work with or with a more quantity of data that gives more room for error. 
+
+--- 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+- 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
