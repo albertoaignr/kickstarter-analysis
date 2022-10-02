@@ -31,9 +31,9 @@ Possible challenges could be present if there was a more specific question which
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+- There are more successful theater productions at any time of the year with the best number of plays on May
 - What can you conclude about the Outcomes based on Goals?
-
+- Expensive plays are often failures
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
