@@ -58,5 +58,8 @@ Limitations could be the adittional steps made to clean the data to use for the 
 
 With the Outcome column, it can also be possible to check another category that wasn't taking into consideration, like 'Music'. While doing the same analysis of the outcome one can see that it has a more succssesful rate than Theater. 
 
+![Music_Outcomes_vs_LaunchDate.png](/Resources/Music_Outcomes_vs_LaunchDate.png)
+
+As it can be seen, there are fewer failed and canceled outcomes. Digging deeper into subcategories it can be seen the succesful ones by the genre of 'rock', 'pop', 'electronic music' and 'metal', to name some.
 
 
