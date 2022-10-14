@@ -19,7 +19,7 @@ Filtering and sorting data will be the fisrt step. It can be a challenge as data
 
 By creating a pivot table, taking as filters reference parent category 'Theater' and 'years' we can compare successful, failed and canceled outcomes in a calendar year. This relation could be appreciated in the following chart.
 
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](/Resources/Theater_Outcomes_vs_Launch.png)
 
 It can be seen from this chart that there are more succesful plays than failed ones, failed plays follow similar trends throughout the months of the years and it can be seen that there are more number of plays in some months and as a result there are more chances of succeed, seen a peak in May. 
 
@@ -28,7 +28,7 @@ Besides the sorting of the data to be readable and useful, another challenge usi
 ### Analysis of Outcomes Based on Goals
 This time, a tabular table was created based in our Kickstarter data to count for ranges of amount on initial monetary goals, using subcategory 'plays' as reference to make the sorting by implementing the "=COUNTIFS()" excel tool. Likewise, operations in the outcomes column to filter and extract the information needed, the function "=SUM()" to group the results and sort percentages with a basic mathematical calculation (Outcome/SUM * 100) inside  "=IFERROR()" function, to prevent errors from data with zero values. A visual representation of percentage of success, failure and canceled plays is displayed in the following line chart. 
 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
 One visible trend in this chart is that higher funding goals for plays tend to have a negative effect on how well it performed. Someone could easily tell that in the range of 35000 to 49999 there were succesful plays but that is not an indicator that correlates to data accurately, as successful plays tendency is seen to decrease and the amount of plays in that range is small.
 
