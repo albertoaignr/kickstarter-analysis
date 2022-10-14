@@ -52,6 +52,10 @@ Possible challenges could be present if there was a more specific question that 
 
 - What are some limitations of this dataset?
 
-
+One of the limitations is adittional steps to clean the data to use for the analysis, also there's a lot of different categories for the information supplied, so whenever theres any specific topic to address, some of the data falls off the analysis and shortens our dataset. 
 
 - What are some other possible tables and/or graphs that we could create?
+
+With the Outcome column, it can also be possible to check another category that wasnt taking into consideration, like 'Music'. While doing the same analysis of the outcome one can see in the following chart that it has a more succssesful rate than Theater. 
+
+
