@@ -59,3 +59,4 @@ Limitations could be the adittional steps made to clean the data to use for the 
 With the Outcome column, it can also be possible to check another category that wasn't taking into consideration, like 'Music'. While doing the same analysis of the outcome one can see that it has a more succssesful rate than Theater. 
 
 
+
