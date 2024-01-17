@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Basic Analysis with Excel
 
 On the first challenge, we're helping Louise visualize data to get a first look and highlight some possible niche in the market.
 
